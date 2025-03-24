@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Santosh Rai</h1>
+<h1 align="center">Hi 👋 My name is Santosh Rai</h1>
 
 <h4 align="center">A self-motivated and eager-to-learn IT undergraduate at Tribhuvan University with a strong passion for innovation and technology. Enthusiastic about problem-solving, software development, and emerging technologies, with a keen interest in contributing to the ever-evolving tech industry. A fast learner with a growth mindset, committed to continuous improvement and teamwork to develop efficient and scalable solutions.</h4>
 
