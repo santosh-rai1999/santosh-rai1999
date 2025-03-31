@@ -25,9 +25,6 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santosh-rai1999&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-rai1999&theme=tokyonight" alt="GitHub Streak" />
