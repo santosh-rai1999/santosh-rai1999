@@ -29,7 +29,6 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-rai1999&theme=nightowl&hide_border=true&background=0D1117" alt="Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=santosh-rai1999&show_icons=true&count_private=true&hide_title=true&theme=nightowl&hide_border=true&bg_color=0D1117&hide_rank=true" alt="GitHub Stats" style="width: 50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh-rai1999&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" alt="Top Languages" style="width: 50%">
 </div>
